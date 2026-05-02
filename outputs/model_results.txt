@@ -2,20 +2,20 @@ HOUSE PRICE PREDICTION MODEL RESULTS
 =============================================
 
 Linear Regression
-MAE  : 963133.26
-RMSE : 1305637.27
-R2   : 0.6627
+MAE  : 954326.08
+RMSE : 1279926.04
+R2   : 0.6759
 ----------------------------------------
 Decision Tree Regressor
-MAE  : 1343486.24
-RMSE : 1831610.10
-R2   : 0.3363
+MAE  : 1391041.28
+RMSE : 1889553.65
+R2   : 0.2936
 ----------------------------------------
 Random Forest Regressor
-MAE  : 1051681.83
-RMSE : 1420587.04
-R2   : 0.6007
+MAE  : 1037803.65
+RMSE : 1410009.14
+R2   : 0.6067
 ----------------------------------------
 
 Best Model: Linear Regression
-Best RMSE : 1305637.27
+Best RMSE : 1279926.04
