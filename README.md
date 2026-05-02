@@ -216,3 +216,5 @@ The dataset includes these columns:
 ## 🙌 Credits
 
 Built with Python, scikit-learn, FastAPI, Streamlit, and pandas for a modern house price prediction experience.
+
+**Author:** Swijay Singh
